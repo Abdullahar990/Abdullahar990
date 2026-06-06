@@ -146,9 +146,7 @@ Automated vehicle detection and counting using OpenCV with custom tracking logic
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullahar990&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahar990&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdullahar990&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -160,7 +158,9 @@ Automated vehicle detection and counting using OpenCV with custom tracking logic
 
 <div align="center">
 
-![Abdullahar990's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullahar990&theme=midnight_purple)
+![Repos](https://img.shields.io/badge/Public_Repos-31-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Abdullahar990?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7c3aed)
+![Stars](https://img.shields.io/github/stars/Abdullahar990?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=7c3aed)
 
 </div>
 
