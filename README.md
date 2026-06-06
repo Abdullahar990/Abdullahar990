@@ -8,8 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Abdullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadabdullah-cs)
 [![Email](https://img.shields.io/badge/Email-abdullahar990%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahar990@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://abdullahar990.github.io)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)]([https://abdullahar990.github.io](https://portfolio-zeta-flame-50.vercel.app))
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]([https://www.upwork.com](https://www.upwork.com/freelancers/~016ee0cce94ef1599c?mp_source=share))
 
 </div>
 
