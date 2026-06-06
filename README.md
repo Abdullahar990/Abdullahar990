@@ -146,12 +146,6 @@ Automated vehicle detection and counting using OpenCV with custom tracking logic
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdullahar990&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahar990&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ffffff&bg_color=0d1117" width="95%"/>
 
 </div>
